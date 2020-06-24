@@ -1,0 +1,141 @@
+{
+    "title": "Services informatiques",
+    "subTitle": "Une suite complète de services informatiques gérés proactifs",
+    "serviceHeaderList": [
+        {
+            "title": "Surveillance du réseau",
+            "content": "Nous gardons un œil sur l'activité de votre réseau 24 heures sur 24 et lorsqu'un système ou une fonction tombe en panne, nos équipes d'assistance interviennent immédiatement pour enquêter. Une fois le problème identifié, nous nous efforcerons de le résoudre - dans de nombreux cas, avant même que vous ne réalisiez qu'il y a un problème."
+        },
+        {
+            "title": "Helpdesk 24x7",
+            "content": "Notre service d'assistance fournit une assistance 24h / 24, 7j / 7, 365 jours par an, lorsque vous en avez besoin. Nos techniciens hautement qualifiés peuvent être contactés par téléphone, e-mail ou chat en ligne, et sont prêts à répondre à toutes vos questions technologiques et à fournir un support professionnel rapide pour une variété d'applications logicielles."
+        },
+        {
+            "title": "Continuité de l'activité",
+            "content": "Notre solution de sauvegarde et de continuité des données garantit que vos informations critiques sont sécurisées, sauvegardées et accessibles chaque fois que vous en avez besoin - même en cas de panne de réseau ou de catastrophe - de sorte que vous n'aurez plus jamais à vous soucier de la perte de données"
+        }
+    ],
+    "serviceItems": {
+        "title": "Laissez-vous l'informatique au hasard?",
+        "description": "Nous prenons la responsabilité de nous préoccuper de votre technologie afin que vous puissiez vous concentrer sur votre entreprise",
+        "items": [
+            {
+                "title": "Surveillance avancée 24/7",
+                "icon": "clock",
+                "iconColor": "primary",
+                "content": "Garantit que tous les périphériques réseau critiques qui composent votre réseau de petite entreprise sont sains et fonctionnent de manière fiable et optimale."
+            },
+            {
+                "title": "Gestion de la sécurité et des sauvegardes",
+                "icon": "database",
+                "iconColor": "secondary",
+                "content": "Gardez votre environnement sécurisé, protégé et disponible grâce aux meilleures pratiques du secteur."
+            },
+            {
+                "title": "Support à distance et sur site",
+                "icon": "user",
+                "iconColor": "primary",
+                "content": "Temps consacré à l'examen des rapports et des problèmes importants pour la performance continue de votre réseau. Nous traduisons la technologie en termes commerciaux pour vous."
+            },
+            {
+                "title": "Avis sur Network Health",
+                "icon": "search",
+                "iconColor": "secondary",
+                "content": "Notre solution de sauvegarde et de continuité des données garantit que vos informations critiques sont sécurisées, sauvegardées et accessibles chaque fois que vous en avez besoin - même en cas de panne de réseau ou de catastrophe - de sorte que vous n'aurez plus jamais à vous soucier de la perte de données"
+            },
+            {
+                "title": "Entretien préventif",
+                "icon": "cog",
+                "iconColor": "primary",
+                "content": "Assurez-vous que vos serveurs, PC et autres périphériques réseau essentiels fonctionnent de manière optimale. Cela améliore la fiabilité et la sécurité."
+            },
+            {
+                "title": "Optimisation en temps réel",
+                "icon": "analytics",
+                "iconColor": "secondary",
+                "content": "Optimisez votre infrastructure grâce à notre technologie de classe entreprise NOC. Les problèmes critiques sont identifiés, signalés et résolus en temps réel"
+            },
+            {
+                "title": "Documentation et rapports",
+                "icon": "file-alt",
+                "iconColor": "primary",
+                "content": "Nous créons une documentation détaillée et inégalée, appuyée par de puissants outils de création de rapports, pour tout sur votre réseau"
+            },
+            {
+                "title": "La gestion d'actifs",
+                "icon": "barcode-alt",
+                "iconColor": "secondary",
+                "content": "Suivi actif des équipements et logiciels (marque, modèle, numéro de série, garantie, clés de licence, attribué à, etc.)"
+            },
+            {
+                "title": "Ransomware et protection AV",
+                "icon": "user-shield",
+                "iconColor": "primary",
+                "content": "Protection avancée contre les menaces pour tous les ordinateurs et serveurs surveillée par notre Centre d'opérations réseau"
+            }
+        ]
+    },
+    "serviceBottom": {
+        "title": "Les services de gestion proactive de Tridacom peuvent vous fournir:",
+        "items": [
+            {
+                "title": "Budgétisation prévisible",
+                "icon": "coins",
+                "iconColor": "primary",
+                "content": "Les coûts initiaux de Tridacom éliminent les factures imprévisibles pour les services informatiques d'urgence."
+            },
+            {
+                "title": "Coûts réduits",
+                "icon": "piggy-bank",
+                "iconColor": "secondary",
+                "content": "Avec Tridacom Managed Services, vous pouvez éliminer le besoin d'engager une équipe de spécialistes en technologie, ce qui permet à votre entreprise d'économiser de l'argent."
+            },
+            {
+                "title": "Moins de temps d'arrêt",
+                "icon": "chart-line",
+                "iconColor": "primary",
+                "content": "La meilleure défense est une grande infraction en utilisant la maintenance préventive: les services gérés proactifs."
+            },
+            {
+                "title": "Expertise cloud",
+                "icon": "cloud",
+                "iconColor": "secondary",
+                "content": "Nous sommes experts dans la migration et la maintenance d'environnements cloud qui vous offrent l'évolutivité, la flexibilité et la rentabilité dont vous avez besoin."
+            },
+            {
+                "title": "Accès aux compétences informatiques ",
+                "icon": "laptop-medical",
+                "iconColor": "primary",
+                "content": "Nous offrons un accès à un large éventail d'expertise informatique spécialisée qui pourrait autrement être trop coûteuse à embaucher."
+            },
+            {
+                "title": "Sécurité informatique renforcée",
+                "icon": "shield-alt",
+                "iconColor": "secondary",
+                "content": "Nous avons des outils, des processus et une expertise qui maintiendront votre entreprise et les données sont protégées grâce aux dernières technologies et à la formation continue du personnel."
+            },
+            {
+                "title": "Soutien à la confidentialité et à la conformité",
+                "icon": "eye-slash",
+                "iconColor": "primary",
+                "content": "Que votre entreprise soit soumise à des réglementations spécifiques à l'industrie et à des lois sur la confidentialité, ou si vos clients exigent certaines normes pour que vous puissiez travailler avec eux, nous pouvons nous assurer que votre informatique est entièrement conforme."
+            },
+            {
+                "title": "Orientation stratégique",
+                "icon": "lightbulb",
+                "iconColor": "secondary",
+                "content": "Nous pouvons traduire votre ambition en stratégie informatique. Non seulement nous maintenons et sécurisons vos données et votre environnement informatique, mais nous consultons également sur la façon d'utiliser la technologie pour atteindre vos objectifs d'entreprise."
+            },
+            {
+                "title": "Tranquillité d'esprit",
+                "icon": "spa",
+                "iconColor": "primary",
+                "content": "L'équipe de professionnels de la technologie de Tridacom est à votre disposition pour vous mettre à l'aise afin que vous puissiez vous concentrer sur votre entreprise"
+            }
+        ]
+    }, 
+    "peaceOfMind": {
+        "title": "Tranquillité d'esprit avec des services gérés proactifs",
+        "content": "Les temps d'arrêt sont un cauchemar pour la productivité, laissant votre entreprise dans une impasse. Attendre que l'équipement tombe en panne ou supposer que vos systèmes sont sécurisés peut vous coûter cher. Un contrat de services gérés proactifs avec Tridacom vous fournit un plan pour la santé, la sécurité et la haute disponibilité de vos systèmes informatiques."
+    }
+}

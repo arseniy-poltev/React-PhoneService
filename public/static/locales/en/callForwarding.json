@@ -1,0 +1,122 @@
+{
+    "title": "Call Forwarding",
+    "subTitle": "The Best Way To Keep Your Number and Stop Paying High Phone Bills",
+    "header": [
+        {
+            "title": "Want to save money?",
+            "content": "Keep your phone number and pay only for your usage."
+        },
+        {
+            "title": "Want more freedom? Want to streamline?",
+            "content": "Re-direct all your phone numbers to one phone line or e-mail."
+        },
+        {
+            "title": "Want to keep an important number?",
+            "content": ""
+        }
+    ],
+    "whatIsCallForwarding": {
+        "title": "What Is Call Forwarding:",
+        "description": "Call Forwarding service allows you to seamlessly forward any calls made toward your parked phone over to any US, Canada, or Skype number of your choosing. You keep your old caller ID.<br/>Forwarding can be used with multiple phone lines - you can choose to either receive all the calls on a single telephone, or through a separate telephone for each number.",
+        "items": [
+            {
+                "title": "Get a toll-free number for your business",
+                "content": "Get a toll free number for your business to create a national presence, or a local number to appeal to your community. You can also keep your current business phone number and connect it to your new account"
+            },
+            {
+                "title": "Create Your Own Company Greeting",
+                "content": "Record your own personalized greeting that gives your customers the info they need. Or have one of our professionals record it for you"
+            },
+            {
+                "title": "Route Calls Wherever You Want",
+                "content": "Easily forward calls to your home, office or mobile phone, and include menu options in your greeting to let callers choose the appropriate extension or department"
+            },
+            {
+                "title": "Do Your Business on the Go",
+                "content": "Use the Mobile App for the fastest and most convenient way to hear voicemails, view text messages, forward calls, and screen unwanted numbers."
+            },
+            {
+                "title": "Easily Manage Your Account Online",
+                "content": "Manage your phone system right from your desktop or mobile device. Choose call routing scheduling, voicemail messages and extensions, all in one place."
+            }
+        ]
+    },
+    "ourCallFeatures": {
+        "title": "Our Call Forwarding Features",
+        "items": [
+            {
+                "title": "Global Call Forwarding",
+                "icon": "phone-volume",
+                "iconColor": "secondary",
+                "content": "Incoming calls can be forwarded anywhere, worldwide for the cost of a local call. Display your international numbers on your web site for a global presence."
+            },
+            {
+                "title": "Text Messaging",
+                "icon": "comment-alt-dots",
+                "iconColor": "primary",
+                "content": "Send and receive text messages with your Tridacom phone numbers. Not available for toll free numbers. "
+            },
+            {
+                "title": "Call from Your International Numbers",
+                "icon": "globe",
+                "iconColor": "secondary",
+                "content": "You can make calls from your phone numbers, using your phone, from anywhere in the world. "
+            },
+            {
+                "title": "Voicemail to Email",
+                "icon": "inbox-in",
+                "iconColor": "primary",
+                "content": "Messages are sent your email as an audio file. Listen and download the message. Upload your own custom voicemail greeting or record one over the phone."
+            },
+            {
+                "title": "Call Blocking",
+                "icon": "phone-slash",
+                "iconColor": "secondary",
+                "content": "Getting unwanted calls? Non-stop telemarketer, robo, fraud or phishing calls blowing up your phone number? Easily add them to your blocked list. Calls will no longer reach you and you'll never hear from them again."
+            },
+            {
+                "title": "911",
+                "icon": "siren-on",
+                "iconColor": "primary",
+                "content": "Our infrastructure supports emergency calls. You will be walked through the process when you activate your account."
+            },
+            {
+                "title": "Incoming Caller ID Select",
+                "icon": "mobile-android-alt",
+                "iconColor": "secondary",
+                "content": "Using your number for business and forwarding to your cell phone? You'll know if that call is coming from your Tridacom number and can answer appropriately"
+            },
+            {
+                "title": "Outgoing Caller ID",
+                "icon": "portrait",
+                "iconColor": "primary",
+                "content": "Place calls showing your caller ID from any number in your account. Display the phone number you select from your account"
+            },
+            {
+                "title": "Voice Response",
+                "icon": "voicemail",
+                "iconColor": "secondary",
+                "content": "Easy-to-configure voice response and voicemail. Prerecorded messages are available in many languages. Easily record your own messages from any phone."
+            },
+            {
+                "title": "Multiple Business Phone Numbers",
+                "icon": "phone-plus",
+                "iconColor": "primary",
+                "content": "Multiple numbers all within a single telephone system. You can set up different call flows and call rules for every number you have enabled and Tridacom will handle calls to each number accordingly."
+            },
+            {
+                "title": "A local Phone Number",
+                "icon": "map-marker-alt",
+                "iconColor": "secondary",
+                "content": "One of the easiest ways to connect with the locals - whether you live their or not. It can give your small Business a multi-city feel and your big business a local feel."
+            },
+            {
+                "title": "Call Recording & Call Logs",
+                "icon": "usb-drive",
+                "iconColor": "primary",
+                "content": "Review your incoming and outgoing phone calls. Sort by billing period, phone number and/or type of call. You can listen to voicemail messages. Download logs in a .csv file and import into your favorite spreadsheet application."
+            }
+        ]
+    },
+    "faqTitle": "Call Forwarding FAQs"
+}

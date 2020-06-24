@@ -1,0 +1,55 @@
+{
+    "title": "Programme d'affiliation",
+    "subTitle": "Gagnez 20% de commission récurrente sur chaque achat effectué à partir de votre parrainage",
+    "header": {
+        "title": "Obtenez une commission récurrente de 20% pour chaque vente!",
+        "description": "Rejoignez notre programme d'affiliation aujourd'hui et commencez à gagner de l'argent!",
+        "items": [
+            {
+                "content": "Inscription gratuite"
+            },
+            {
+                "content": "Commissions hautement compétitives"
+            },
+            {
+                "content": "Soyez payé chaque mois"
+            },
+            {
+                "content": "Opportunité sans fin"
+            }
+        ]
+    },
+    "howDoesItWork": {
+        "title": "Comment ça marche?",
+        "description": "Gagnez 20% de commission récurrente sur chaque achat effectué à partir de votre lien de parrainage ",
+        "items": [
+            {
+                "icon": "user-plus",
+                "iconColor": "secondary",
+                "title": "Inscription gratuite",
+                "content": "Inscrivez-vous pour faire partie de notre programme d'affiliation"
+            },
+            {
+                "icon": "link",
+                "iconColor": "secondary",
+                "title": "Obtenez un lien de parrainage",
+                "content": "Recevez immédiatement un lien de parrainage"
+            },
+            {
+                "icon": "share-square",
+                "iconColor": "secondary",
+                "title": "Partagez votre lien",
+                "content": "Partagez votre lien de parrainage autant que possible sur différentes plateformes."
+            },
+            {
+                "icon": "paypal",
+                "iconColor": "secondary",
+                "title": "Soyez payé chaque mois",
+                "content": "Gagnez une commission chaque mois pour les achats effectués à partir de votre lien de parrainage."
+            }
+        ]
+    },
+    "faqTitle": "FAQ du programme d'affiliation",
+    "becomeAndAffiliate": "Devenez affilié en moins de 3 minutes et commencez à gagner de l'argent",
+    "btn_signup_now": "S'inscrire maintenant"
+}

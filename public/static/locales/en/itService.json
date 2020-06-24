@@ -1,0 +1,141 @@
+{
+    "title": "IT Services",
+    "subTitle": "A Complete Suite of Proactive Managed It Services",
+    "serviceHeaderList": [
+        {
+            "title": "Network Monitoring",
+            "content": "We keep tabs on your network activity around the clock, and when a system or function fails, our support teams immediately jump in to investigate. Once the problem is identified, we’ll work to fix it — in many cases before you’ve even realized there’s an issue."
+        },
+        {
+            "title": "24x7 Helpdesk",
+            "content": "Our Help Desk provides 24x7x365 support, whenever you need it. Our highly-skilled technicians can be contacted via phone, e-mail or web-based chat, and are ready and waiting to help answer any of your technology questions and provide fast, professional support for a variety of software applications."
+        },
+        {
+            "title": "Business Continuity",
+            "content": "Our data backup and continuity solution ensures your critical information is secure, backed up and accessible whenever you need it – even during a network failure or a disaster – so you will never have to worry about data loss again"
+        }
+    ],
+    "serviceItems": {
+        "title": "Are you leaving IT to chance?",
+        "description": "We take the responsibility to worry about your technology so you can focus on your business ",
+        "items": [
+            {
+                "title": "24/7 Advanced Monitoring",
+                "icon": "clock",
+                "iconColor": "primary",
+                "content": "Ensures that all of the critical network devices that comprise your small business network are healthy and functioning reliably and optimally."
+            },
+            {
+                "title": "Security & Backup Management",
+                "icon": "database",
+                "iconColor": "secondary",
+                "content": "Keep your environment secure, protected, and available through industry best practices."
+            },
+            {
+                "title": "Remote and Onsite Support",
+                "icon": "user",
+                "iconColor": "primary",
+                "content": "Dedicated time to review reports and issues that are important to the ongoing performance of your network. We translate technology into business terms for you. "
+            },
+            {
+                "title": "Network Health Reviews",
+                "icon": "search",
+                "iconColor": "secondary",
+                "content": "Our data backup and continuity solution ensures your critical information is secure, backed up and accessible whenever you need it – even during a network failure or a disaster – so you will never have to worry about data loss again"
+            },
+            {
+                "title": "Preventative Maintenance",
+                "icon": "cog",
+                "iconColor": "primary",
+                "content": "Ensure that your servers, PCs, and other vital network devices function optimally. This improves reliability and security."
+            },
+            {
+                "title": "Real Time Optimization",
+                "icon": "analytics",
+                "iconColor": "secondary",
+                "content": "Keep your infrastructure optimized through our NOC enterprise-class technology. Critical issues are identified, reported, and resolved in real time"
+            },
+            {
+                "title": "Documentation & Reporting",
+                "icon": "file-alt",
+                "iconColor": "primary",
+                "content": "We create detailed and unparalleled documentation, backed by powerful reporting tools, for everything on your network"
+            },
+            {
+                "title": "Asset Management",
+                "icon": "barcode-alt",
+                "iconColor": "secondary",
+                "content": "Active equipment and software tracking (make, model, serial number, warranty, license keys, assigned to, etc.)"
+            },
+            {
+                "title": "Ransomware & AV Protection",
+                "icon": "user-shield",
+                "iconColor": "primary",
+                "content": "Advanced threat protection for all computers and servers that is monitored by our Network Operations Center"
+            }
+        ]
+    },
+    "serviceBottom": {
+        "title": "Tridacom’s Proactive Management Services can provide you with:",
+        "items": [
+            {
+                "title": "Predictable Budgeting",
+                "icon": "coins",
+                "iconColor": "primary",
+                "content": "Tridacom’s up-front costing eliminates unpredictable invoices for emergency IT services."
+            },
+            {
+                "title": "Reduced Costs",
+                "icon": "piggy-bank",
+                "iconColor": "secondary",
+                "content": "With Tridacom Managed Services you can eliminate the need to hire a team of technology specialists, saving your company money."
+            },
+            {
+                "title": "Less Downtime",
+                "icon": "chart-line",
+                "iconColor": "primary",
+                "content": "The best defense is a great offense using preventative maintenance: Proactive Managed Services."
+            },
+            {
+                "title": "Cloud Expertise",
+                "icon": "cloud",
+                "iconColor": "secondary",
+                "content": "We are experts in migrating and maintaining cloud environments that give you the scalability, flexibility and cost efficiency you need."
+            },
+            {
+                "title": "Access to IT Skills ",
+                "icon": "laptop-medical",
+                "iconColor": "primary",
+                "content": "We provide access to a wide range of specialist IT expertise that could otherwise be too costly to hire."
+            },
+            {
+                "title": "Heightened IT Security",
+                "icon": "shield-alt",
+                "iconColor": "secondary",
+                "content": "We have tools, processes and expertise that willkeep your business and data is protected through the latest technologies and on-going staff education."
+            },
+            {
+                "title": "Privacy & Compliance Support",
+                "icon": "eye-slash",
+                "iconColor": "primary",
+                "content": "Whether your business is subject to industry-specific regulations and privacy laws, or if your customers require certain standards for you to work with them, we can ensure your IT is fully compliant."
+            },
+            {
+                "title": "Strategic Guidance",
+                "icon": "lightbulb",
+                "iconColor": "secondary",
+                "content": "We can translate your ambition into IT strategy. Not only do we maintain and secure your data and IT environment, but we also consult on how to use technology to deliver on your corporate objectives."
+            },
+            {
+                "title": "Peace of Mind",
+                "icon": "spa",
+                "iconColor": "primary",
+                "content": "Tridacom’s team of technology professionals is at your disposal, putting you at ease so you can focus on your business"
+            }
+        ]
+    }, 
+    "peaceOfMind": {
+        "title": "Peace of Mind with Proactive Managed Services",
+        "content": "Downtime is a productivity nightmare, leaving your business at a dead stop. Waiting for equipment to fail or assuming your systems are secure can cost you. A Proactive Managed Services contract with Tridacom provides you with a plan for your IT systems health, security, and high availability"
+    }
+}

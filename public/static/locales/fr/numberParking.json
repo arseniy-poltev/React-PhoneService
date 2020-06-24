@@ -1,0 +1,94 @@
+{
+    "title": "Parking",
+    "subTitle": "Gardez votre numéro et arrêtez de payer des factures de téléphone élevées",
+    "header": [
+        {
+            "title": "À bas prix",
+            "content": "Les tarifs de stationnement les plus bas de l'industrie."
+        },
+        {
+            "title": "Transfert rapide",
+            "content": "Port rapide d'entrée et de sortie sans tracas."
+        },
+        {
+            "title": "Options flexibles",
+            "content": "Mettez à jour les plans, les paramètres et le compte en ligne."
+        },
+        {
+            "title": "Vous gardez votre numéro",
+            "content": " vous possédez votre numéro sans aucune condition"
+        }
+    ],
+    "whyShouldPark": {
+        "title": "Pourquoi devriez-vous garer votre téléphone avec nous:",
+        "content": "Les téléphones intelligents sont désormais préférés aux téléphones fixes, cependant, nous gardons souvent un téléphone fixe parce que nous l'avons toujours eu. Est-ce que tous ceux qui ont besoin de vous joindre pourront le faire? Allez-vous manquer certains appels importants? <br/> Cependant, il existe maintenant de nouvelles façons de répondre à ces préoccupations tout en rationalisant la configuration de votre téléphone personnel ou professionnel. Les services de stationnement, de notification et de transfert de numéros de téléphone vous permettent de vous débarrasser des services téléphoniques physiques tout en conservant les numéros de téléphone associés."
+    },
+    "parkingItems": [
+        {
+            "icon": "plane-departure",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "content": "Nous pouvons vous aider en stockant votre numéro de téléphone jusqu'à votre retour. Vous pouvez même garder un accès complet à votre numéro complet via notre application Wi-Fi ou par e-mail.",
+                    "title": "Vous voyagez ou vivez à l'étranger?"
+                }
+            ]
+
+        },
+        {
+            "icon": "truck-couch",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Mouvements personnels",
+                    "content": "Soit un parc à court terme pendant que vous êtes entre deux endroits, soit après un déménagement permanent lorsque vous souhaitez conserver le nombre que vous avez toujours eu. Le stationnement de votre numéro pendant une courte période est un excellent moyen d'éviter de le perdre. Se garer avec des notifications ou des transferts peut être un excellent moyen de rester en contact!"
+                }
+            ]
+        },
+        {
+            "icon": "dolly",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "title": "Déménagements commerciaux",
+                    "content": "Le déménagement d'une entreprise peut vous mettre dans les mêmes situations que ci-dessus, mais avec de graves effets secondaires sur vos résultats. Les appels téléphoniques des clients manquants peuvent littéralement signifier la perte d'une entreprise. Ces services offrent un moyen peu coûteux de se prémunir contre"
+                }
+            ]
+        },
+        {
+            "icon": "phone-plus",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Besoin d'un nouveau numéro?",
+                    "content": "Chaque fois que vous obtenez un nouveau numéro, c'est compliqué d'informer tous vos anciens contacts. Notre renvoi d'appel vous permet de transférer de façon transparente des appels de votre ancien numéro directement vers le nouveau. Ne vous inquiétez pas de perdre d'anciens contacts ou affaires"
+                }
+            ]
+        },
+        {
+            "icon": "file-contract",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "title": "Gestion de la succession",
+                    "content": "Lier les extrémités libres après la mort d'une personne peut prendre du temps. Le transfert d'un numéro de téléphone peut vous aider à recevoir toutes les communications nécessaires pour vous aider à le faire tout en éliminant le coût continu de maintenance des lignes téléphoniques qui ne sont plus nécessaires."
+                }
+            ]
+        },
+        {
+            "icon": "phone-rotary",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Des numéros de téléphone inutilisés?",
+                    "content": "Pas besoin de payer les factures pour les numéros de téléphone inutilisés ou rarement utilisés. Avec notre service de stationnement de numéro, nous pouvons geler vos lignes téléphoniques inutilisées jusqu'à ce que vous soyez prêt à l'utiliser à nouveau. Vous pouvez geler votre numéro pour aussi peu que 3 $ / mois"
+                },
+                {
+                    "title": "Consolidation des lignes téléphoniques?",
+                    "content": "La communication peut devenir compliquée lorsque vous possédez plusieurs numéros de téléphone. Économisez de l'argent sur vos factures de téléphone tout en rationalisant votre communication en redirigeant tous vos numéros de téléphone vers une ligne téléphonique ou un e-mail."
+                }
+            ]
+        }
+    ],
+    "faqTitle": "FAQ sur le transfert de numéro"
+}

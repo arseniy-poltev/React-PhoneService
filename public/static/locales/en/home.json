@@ -1,0 +1,134 @@
+{
+    "btn_check_prices": "Check Prices",
+    "btn_learn_more": "Learn More",
+    "carouselItems": [
+        {
+            "titleTop": "What can we do for you?",
+            "mainTitle": "Travel Solutions",
+            "content": "What can we do for you?",
+            "list": [
+                {
+                    "title": "Stay Connected – ",
+                    "content": "Make and receive calls worldwide "
+                },
+                {
+                    "title": "Keep Your Number – ",
+                    "content": "Make and receive calls worldwide Fundamentals"
+                },
+                {
+                    "title": "Reduce Costs -",
+                    "content": "With mobile data plans intended for use abroad"
+                }
+            ]
+        },
+        {
+            "titleTop": "What can we do for you?",
+            "mainTitle": "Personal Solutions",
+            "content": "Transfer your personal number to us and see instant benefits",
+            "list": [
+                {
+                    "title": "Increase Agility – ",
+                    "content": "work anywhere"
+                },
+                {
+                    "title": "Keep In Touch -",
+                    "content": "Your numbers stay with you"
+                },
+                {
+                    "title": "Reduce Costs -",
+                    "content": "Save money by upgrading to us"
+                }
+            ]
+        },
+        {
+            "titleTop": "What can we do for you?",
+            "mainTitle": "Enterprise Solutions",
+            "content": "Transfer your business numbers to us and see instant benefits",
+            "list": [
+                {
+                    "title": "Increase Agility –",
+                    "content": " easily make moves, additions or changes in multiple locations "
+                },
+                {
+                    "title": "Easy to Grow -",
+                    "content": "scalable across locations as you grow"
+                },
+                {
+                    "title": "Reduce Costs -",
+                    "content": "Save money by upgrading to us"
+                }
+            ]
+        }
+    ],
+    "promoItems": [
+        {
+            "title": "Number Parking",
+            "icon": "parking",
+            "content": "Business temporarily on hold?  Park your number with us to keep your number at a reduced price."
+        },
+        {
+            "title": "Number Forwarding",
+            "icon": "arrow-circle-right",
+            "content": "Enthusiastically scale mission-critical imperatives rather than an expanded array."
+        },
+        {
+            "title": "Global Phone Network",
+            "icon": "globe",
+            "content": "Our global carrier-grade phone network covers 78 countries keeping you connected globally."
+        }
+    ],
+    "gettingStartContent": {
+        "title": "Get Started in Minutes and Never Miss a Call",
+        "description": "Transfer your existing phone, fax, or toll-free number and start saving now with our affordable parking and forwarding plans. ",
+        "items": [
+            {
+                "title": "Download our App",
+                "icon": "mobile-alt",
+                "iconColor": "primary",
+                "read_more": "Read More",
+                "content": "Progressively empower business \"outside the box\" thinking with resource-leveling partnerships."
+            },
+            {
+                "title": "Set Up Your Account",
+                "icon": "tasks",
+                "read_more": "Read More",
+                "iconColor": "primary",
+                "content": "Progressively empower business \"outside the box\" thinking with resource-leveling partnerships."
+            },
+            {
+                "title": "Manage Your Number",
+                "icon": "user-cog",
+                "read_more": "Read More",
+                "iconColor": "primary",
+                "content": "Progressively empower business \"outside the box\" thinking with resource-leveling partnerships."
+            }
+        ]
+    },
+    "download_app": {
+        "title": "Download Our App",
+        "description":"Isn’t it time you used your phone the way you want?",
+        "content": "Download from"
+    },
+    "about": {
+        "title": "Dedicated to providing IT Solutions for today’s demands",
+        "description": "In a global crisis, the right solutions can help you navigate uncertainty, adapt to changing conditions and become more resilient",
+        "items": [
+            {
+                "title": "Increase Agility ",
+                "content": "work anywhere"
+            },
+            {
+                "title": "Keep In Touch ",
+                "content": "Your numbers say with you"
+            },
+            {
+                "title": "Reduce Costs ",
+                "content": "Save money by upgrading to us"
+            },
+            {
+                "title": "Company ",
+                "content": "Brand Solutions"
+            }
+        ]
+    }
+}

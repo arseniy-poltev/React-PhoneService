@@ -1,0 +1,78 @@
+{
+    "title": "Virtual Number",
+    "subTitle": "The most flexible way to have your phone service meet your needs",
+    "header": [
+        {
+            "content": "Route Your Business Calls Anywhere"
+        },
+        {
+            "content": "Easily Work Remotely"
+        },
+        {
+            "content": "Use A Local Phone Number In An Area Where You Have Many Customers"
+        },
+        {
+            "content": "Unite Departments In Located In Differen"
+        }
+    ],
+    "WhatIsVirtualNumber": {
+        "title": "What is a Virtual Number?",
+        "description": "Unlike traditional telephone numbers, that are designed to lock you into a physical location, a contract with carriers and one number for each phone, virtual numbers live in the cloud and can be accessed on any device that has an internet connection. Also, with a virtual phone number you are no longer restricted to phone numbers “local” to your area, you can choose. "
+    },
+    "whyUseVirtualPhoneNum": {
+        "title": "Why use a virtual phone number?",
+        "description": "Unlike traditional telephone numbers, that are designed to lock you into a physical location, a contract with carriers and one number for each phone, virtual numbers live in the cloud and can be accessed on any device that has an internet connection. Also, with a virtual phone number you are no longer restricted to phone numbers “local” to your area, you can choose. ",
+        "items": [
+            {
+                "title": "Convenience ",
+                "content": "Once you obtain a virtual number from us, you will get instant access to it. There is no hardware to set up, SIM card to install or wires to connect. If you want to change your number or add a new one, you can do so instantly. You can also access your virtual number from any mobile device. When you are connected to the internet, you can use your number anywhere."
+            },
+            {
+                "title": "Freedom and privacy",
+                "content": "Virtual numbers allow you to move between devices easily. This is a good option for businesses who may otherwise be unable to afford a dedicated line for business calls, or for independent contractors working a side-hustle. <br/>People from every industry, from <a class='text-primary' href='https://www.theverge.com/2018/10/18/17995540/uber-voip-data-call'>ride-share drivers</a> and delivery people, <a  class='text-primary' href='https://www.bmmagazine.co.uk/marketing/creative-ways-to-use-virtual-phone-numbers-for-marketing-campaigns/'>creative roles</a> and <a  class='text-primary' href='https://www.canadianbusiness.com/innovation/how-to-be-everywhere-at-once-with-virtual-phone-numbers'/>start-up CEOS</a> are all using virtual numbers to grow their businesses. Online dating is another popular reason for selecting a virtual number. It’s important to stay safe while connecting with new people; a virtual number is a key addition to your privacy routine. Using one for new Tinder matches allows you to hold back your real phone number until you know more about your date, and adds a layer of security to your online life. With the ability to change numbers and select new ones at any time, you’re not locked-in to a complicated and expensive phone contract. Across the world, VoIP numbers are much less costly than traditional phone numbers. If you’re using a phone number app, then it’s very simple to add new numbers to your device or to burn old ones you no longer want to use. "
+            },
+            {
+                "title": "Have a Local Presence",
+                "content": "With a virtual number, you’re not limited to a local area code. You can also vary the type of number you use. For instance, toll-free numbers and vanity numbers are useful virtual number options for small businesses. You can also add international numbers if you prefer, depending on the service you select. Many VoIP services allow customers to choose their own area code. Hushed lets you choose the entire number from our available listing, and offers numbers in more than 60 countries!"
+            },
+            {
+                "title": "Local and international options",
+                "content": "Generally, virtual numbers are much less expensive than traditional numbers. They also allow the user to get a local phone number in a different country. With one of these numbers, you can make and receive calls and texts in another country, but be charged the same price as a traditional local number.  This means instant cost savings because you get to avoid the international calling and texting charges that plague normal phone service."
+            },
+            {
+                "title": "Get a virtual number today",
+                "content": "To recap, we’ve explored the differences between ordinary numbers and virtual numbers. We’ve also looked at the reasons why you may want to get a virtual number. Virtual numbers combine the benefits of mobile numbers with the option to easily move your number across multiple devices. They’re convenient, easy to change, and they add privacy and security to your business or personal life. There are various options for virtual numbers, including Hushed. A quick Google search for “Virtual phone number” brings up more than 400,000 results! We recommend taking your time to check out the top options available; it’s no secret that we think Hushed is amazing, but we try to stay unbiased here on the blog, and let the app speak for itself! Whichever option you choose, you can’t go wrong with a virtual phone number. "
+            }
+        ]
+    },
+    "howToAnswer": {
+        "title": "Choose How to Answer Your New Virtual Phone Number",
+        "description": "Any internet-connected communication device will work with Tridacom’s virtual numbers.",
+        "items": [
+            {
+                "icon": "phone-rotary",
+                "iconColor": "primary",
+                "title": "Your Existing Phone",
+                "content": "No need to buy a new phone–use the one you have. Use any traditional analog telephone with "
+            },
+            {
+                "icon": "mobile-alt",
+                "iconColor": "secondary",
+                "title": "Mobile Phones",
+                "content": "Any smartphone or mobile phone. Basically, if you can get a dial tone, it’ll work with Phone.com."
+            },
+            {
+                "icon": "phone-laptop",
+                "iconColor": "primary",
+                "title": "Softphones",
+                "content": "Use your computer as your phone extension with Phone.com Communicator software. Just download, install and you’re ready."
+            },
+            {
+                "icon": "phone-office",
+                "iconColor": "secondary",
+                "title": "Ring-Ready IP Phones",
+                "content": "Phones purchased directly from Phone.com come pre-configured, ready to work the moment they’re plugged into your network."
+            }
+        ]
+    }
+}

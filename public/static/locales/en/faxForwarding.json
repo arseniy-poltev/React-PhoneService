@@ -1,0 +1,122 @@
+{
+    "title": "VIRTUAL FAX",
+    "subTitle": "Receive fax by email, wherever you want",
+    "header": [
+        {
+            "title": "Save Money",
+            "content": "Get rid of the expensive bill but not the fax number and keep your same fax number."
+        },
+        {
+            "title": "Save Space",
+            "content": "you no longer need space for a physical fax machine. Keep your fax numbers and receive faxes via email."
+        },
+        {
+            "title": "Easily Change Locations ",
+            "content": "wherever you move or travel to, you can keep your fax number and never miss a single document"
+        }
+    ],
+    "faxForwardList": [
+        {
+            "title": "Virtualize your fax number",
+            "icon": "",
+            "content": "Transfer your fax line from any carrier to save money on your monthly bills, while keeping the number you need."
+        },
+        {
+            "title": "Receive Faxes to Email",
+            "icon": "",
+            "content": "Get all your faxes to your inbox as pdf attachments."
+        },
+        {
+            "title": "Send Faxes from Email",
+            "icon": "",
+            "content": "Send all your faxes using your existing email. No one will know the difference in your fax service."
+        }
+    ],
+    "whatIsVirtualFaxNum": {
+        "title": "What is a Virtual Fax number?",
+        "description": "Keep your existing fax number(s) and have them forwarded to the email addresses of your choice. It is excellent way to save money on your monthly bills. It is also a great option if you are moving to a different location or working remotely. It is also a great solution for businesses who get just a few faxes and don’t want to deal with the hassle or expense of an actual fax machine. <br/> A Virtual Fax service from Tridacom IT Solutions takes faxing to a whole new level. No more paper, toner, or phone lines needed to send or receive faxes.",
+        "items": [
+            {
+                "content": "iOS & Android App "
+            },
+            {
+                "content": "Fax by Email"
+            },
+            {
+                "content": "Fax from your phone, PC or Mac "
+            },
+            {
+                "content": "Electronic Signature"
+            },
+            {
+                "content": "No monthly page limits "
+            },
+            {
+                "content": "Large File Sharing  "
+            },
+            {
+                "content": "Searchable Faxes "
+            },
+            {
+                "content": "Unlimited File Storage "
+            }
+        ]
+    },
+    "virtualNumTypes": [
+        {
+            "icon": "fax",
+            "iconColor": "secondary",
+            "title": "Keep your existing Fax Number",
+            "content": "You don’t have to give up your long-established number when you switch to us."
+        },
+        {
+            "icon": "user-headset",
+            "iconColor": "primary",
+            "title": "Free 24/7 Customer Support",
+            "content": "We answer the phone!"
+        },
+        {
+            "icon": "store",
+            "iconColor": "secondary",
+            "title": "Local & Toll Free",
+            "content": "A local fax number from Tridacom allows you to have a presence in the communities you serve that your business is a part of the community."
+        },
+        {
+            "icon": "phone-laptop",
+            "iconColor": "primary",
+            "title": "No Hardware or Software",
+            "content": "No software is needed. Faxes are delivered right to your email as PDFs."
+        },
+        {
+            "icon": "inbox-in",
+            "iconColor": "secondary",
+            "title": "Direct to different emails",
+            "content": "Send and receive faxes from your eFax number from up to 5 email accounts."
+        },
+        {
+            "icon": "archive",
+            "iconColor": "primary",
+            "title": "Archive & Keep",
+            "content": ""
+        },
+        {
+            "icon": "piggy-bank",
+            "iconColor": "secondary",
+            "title": "Save Money ",
+            "content": "No more fax machines, paper, toner and maintenance costs"
+        },
+        {
+            "icon": "globe-americas",
+            "iconColor": "primary",
+            "title": "No Cost International Faxing",
+            "content": "No Cost International Faxing"
+        },
+        {
+            "icon": "lock-alt",
+            "iconColor": "primary",
+            "title": "Secure Faxing",
+            "content": "Keep your faxes private by sending them directly to your email account instead of laying around on a public fax machine."
+        }
+    ],
+    "faqTitle": "Virtual Fax FAQ’s"
+}

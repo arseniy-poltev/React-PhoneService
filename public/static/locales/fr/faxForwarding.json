@@ -1,0 +1,122 @@
+{
+    "title": "FAX VIRTUEL",
+    "subTitle": "Recevez des fax par email, où vous voulez",
+    "header": [
+        {
+            "title": "Économiser de l'argent",
+            "content": "Débarrassez-vous de la facture chère mais pas du numéro de fax et conservez votre même numéro de fax."
+        },
+        {
+            "title": "Économiser de l'espace",
+            "content": "vous n'avez plus besoin d'espace pour un télécopieur physique. Conservez vos numéros de fax et recevez des fax par e-mail."
+        },
+        {
+            "title": "Changez facilement d'emplacement",
+            "content": "partout où vous vous déplacez ou voyagez, vous pouvez conserver votre numéro de fax et ne jamais manquer un seul document"
+        }
+    ],
+    "faxForwardList": [
+        {
+            "title": "Virtualisez votre numéro de fax",
+            "icon": "",
+            "content": "Transférez votre ligne de fax depuis n'importe quel opérateur pour économiser de l'argent sur vos factures mensuelles, tout en conservant le numéro dont vous avez besoin."
+        },
+        {
+            "title": "Recevoir des fax par e-mail",
+            "icon": "",
+            "content": "Recevez tous vos fax dans votre boîte de réception sous forme de pièces jointes au format pdf."
+        },
+        {
+            "title": "Envoyer des télécopies par e-mail",
+            "icon": "",
+            "content": "Envoyez tous vos fax en utilisant votre e-mail existant. Personne ne connaîtra la différence dans votre service de télécopie."
+        }
+    ],
+    "whatIsVirtualFaxNum": {
+        "title": "Qu'est-ce qu'un numéro de fax virtuel?",
+        "description": "Conservez votre (vos) numéro (s) de télécopie actuel (s) et faites-les transférer aux adresses électroniques de votre choix. C'est un excellent moyen d'économiser sur vos factures mensuelles. C'est également une excellente option si vous déménagez dans un autre endroit ou travaillez à distance. C'est également une excellente solution pour les entreprises qui ne reçoivent que quelques télécopies et qui ne veulent pas faire face aux tracas ou aux dépenses d'un télécopieur réel. <br/> Un service de télécopie virtuelle de Tridacom IT Solutions élève la télécopie à un tout autre niveau. Plus besoin de papier, de toner ou de lignes téléphoniques pour envoyer ou recevoir des télécopies.",
+        "items": [
+            {
+                "content": "Application iOS et Android"
+            },
+            {
+                "content": "Fax par e-mail"
+            },
+            {
+                "content": "Télécopie depuis votre téléphone, PC ou Mac"
+            },
+            {
+                "content": "signature électronique"
+            },
+            {
+                "content": "Aucune limite mensuelle de pages"
+            },
+            {
+                "content": "Partage de fichiers volumineux "
+            },
+            {
+                "content": "Fax consultables "
+            },
+            {
+                "content": "Stockage de fichiers illimité"
+            }
+        ]
+    },
+    "virtualNumTypes": [
+        {
+            "icon": "fax",
+            "iconColor": "secondary",
+            "title": "Conservez votre numéro de fax existant",
+            "content": "Vous n'avez pas à renoncer à votre numéro établi de longue date lorsque vous passez chez nous."
+        },
+        {
+            "icon": "user-headset",
+            "iconColor": "primary",
+            "title": "Support client gratuit 24/7",
+            "content": "Nous répondons au téléphone!"
+        },
+        {
+            "icon": "store",
+            "iconColor": "secondary",
+            "title": "Local et sans frais",
+            "content": "Un numéro de fax local de Tridacom vous permet d'avoir une présence dans les communautés que vous desservez que votre entreprise fait partie de la communauté."
+        },
+        {
+            "icon": "phone-laptop",
+            "iconColor": "primary",
+            "title": "Aucun matériel ni logiciel",
+            "content": "Aucun logiciel n'est nécessaire. Les fax sont livrés directement à votre e-mail sous forme de PDF."
+        },
+        {
+            "icon": "inbox-in",
+            "iconColor": "secondary",
+            "title": "Direct vers différents e-mails",
+            "content": "Envoyez et recevez des télécopies à partir de votre numéro eFax depuis un maximum de 5 comptes de messagerie."
+        },
+        {
+            "icon": "archive",
+            "iconColor": "primary",
+            "title": "Archiver et conserver",
+            "content": ""
+        },
+        {
+            "icon": "piggy-bank",
+            "iconColor": "secondary",
+            "title": "Économiser de l'argent",
+            "content": "Plus de télécopieurs, de papier, de toner et de coûts de maintenance"
+        },
+        {
+            "icon": "globe-americas",
+            "iconColor": "primary",
+            "title": "Télécopie internationale sans frais",
+            "content": "Télécopie internationale sans frais"
+        },
+        {
+            "icon": "lock-alt",
+            "iconColor": "primary",
+            "title": "Télécopie sécurisée",
+            "content": "Gardez vos télécopies confidentielles en les envoyant directement à votre compte de messagerie au lieu de vous allonger sur un télécopieur public."
+        }
+    ],
+    "faqTitle": "FAQ sur la télécopie virtuelle"
+}

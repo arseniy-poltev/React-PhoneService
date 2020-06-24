@@ -1,0 +1,94 @@
+{
+    "title": "Number Parking",
+    "subTitle": "Keep Your Number and Stop Paying High Phone Bills",
+    "header": [
+        {
+            "title": "Low Cost",
+            "content": "Lowest number parking rates in the industry."
+        },
+        {
+            "title": "Quick Transfer",
+            "content": "Quick port in and port out with no hassles."
+        },
+        {
+            "title": "Flexible Options",
+            "content": "Update plans, settings, and account online."
+        },
+        {
+            "title": "You Keep Your Number",
+            "content": " you own your number with no strings attached"
+        }
+    ],
+    "whyShouldPark": {
+        "title": "Why Should You Park Your Phone with Us:",
+        "content": "Smart phones are now the favoured over landlines, however, often we keep a landline because we have always had it. Will everyone who needs to get a hold of you be able to do so? Will you miss out on some important calls? <br/>Now, however, there are new ways to address these concerns while streamlining your personal or business phone setup. Phone number parking, notification and forwarding services give you ways to get rid of physical phone services while retaining the associated phone numbers."
+    },
+    "parkingItems": [
+        {
+            "icon": "plane-departure",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "content": "We can help by storing your phone number until you get back. You can even keep full access to your full number via our Wi-Fi app or through e-mail.",
+                    "title": "Traveling or living abroad?"
+                }
+            ]
+
+        },
+        {
+            "icon": "truck-couch",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Personal Moves",
+                    "content": "Either a short-term park while you are in between locations or after permanent move when you want to keep the number you have always had. Parking your number for a short time is a great way to avoid losing it. Parking with notifications or forwarding can be a great way to stay in touch!"
+                }
+            ]
+        },
+        {
+            "icon": "dolly",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "title": "Business Moves",
+                    "content": "Moving a business can put you in the same situations as above but with some serious side-effects to your bottom line. Missing customer phone calls can literally mean losing business. These services offer an inexpensive way to guard against that"
+                }
+            ]
+        },
+        {
+            "icon": "phone-plus",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Need a new number?",
+                    "content": "Whenever you get a new number, it's a hassle to inform all your old contacts. Our call forwarding allows you to seamlessly forward calls from your old number directly to your new one. Don't worry about losing old contacts or business"
+                }
+            ]
+        },
+        {
+            "icon": "file-contract",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "title": "Handling Estate Management",
+                    "content": "Tying up the loose ends after someone dies can take time. Forwarding a phone number can help ensure that you receive all communications necessary to help you do this while eliminating the ongoing cost of maintaining phone lines that are no longer required."
+                }
+            ]
+        },
+        {
+            "icon": "phone-rotary",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Unused phone numbers?",
+                    "content": "No need to pay bills for unused or seldom-used phone numbers. With our number parking service, we can freeze your unused phone lines until you're ready to use it again. You can freeze your number for as low as $3/month"
+                },
+                {
+                    "title": "Consolidating phone lines?",
+                    "content": "Communication can get messy when you own multiple phone numbers. Save money on your phone bills while streamlining your communication by re-directing all your phone numbers to one phone line or e-mail."
+                }
+            ]
+        }
+    ],
+    "faqTitle": "Number Forwarding FAQs"
+}

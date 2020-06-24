@@ -1,0 +1,122 @@
+{
+    "title": "FAX VIRTUAL",
+    "subTitle": "Reciba fax por correo electrónico, donde quiera",
+    "header": [
+        {
+            "title": "Ahorrar dinero",
+            "content": "Deshágase de la factura cara pero no del número de fax y conserve su mismo número de fax."
+        },
+        {
+            "title": "Ahorra espacio",
+            "content": "ya no necesita espacio para una máquina de fax física. Guarde sus números de fax y reciba faxes por correo electrónico."
+        },
+        {
+            "title": "Cambiar ubicaciones fácilmente ",
+            "content": "donde quiera que se mude o viaje, puede guardar su número de fax y nunca perder un solo documento"
+        }
+    ],
+    "faxForwardList": [
+        {
+            "title": "Virtualice su número de fax",
+            "icon": "",
+            "content": "Transfiera su línea de fax desde cualquier operador para ahorrar dinero en sus facturas mensuales, manteniendo el número que necesita."
+        },
+        {
+            "title": "Recibir faxes por correo electrónico",
+            "icon": "",
+            "content": "Lleve todos sus faxes a su bandeja de entrada como archivos adjuntos en pdf."
+        },
+        {
+            "title": "Enviar faxes por correo electrónico",
+            "icon": "",
+            "content": "Envíe todos sus faxes utilizando su correo electrónico existente. Nadie sabrá la diferencia en su servicio de fax."
+        }
+    ],
+    "whatIsVirtualFaxNum": {
+        "title": "¿Qué es un número de fax virtual?",
+        "description": "Mantenga sus números de fax existentes y reenvíelos a las direcciones de correo electrónico que elija. Es una excelente manera de ahorrar dinero en sus facturas mensuales. También es una excelente opción si te mudas a una ubicación diferente o trabajas de forma remota. También es una excelente solución para las empresas que reciben solo unos pocos faxes y no quieren lidiar con las molestias o los gastos de una máquina de fax real. <br/> Un servicio de fax virtual de Tridacom IT Solutions lleva el envío de fax a un nivel completamente nuevo. No se necesitan más papel, tóner o líneas telefónicas para enviar o recibir faxes.",
+        "items": [
+            {
+                "content": "Aplicación iOS y Android"
+            },
+            {
+                "content": "Fax por correo electrónico"
+            },
+            {
+                "content": "Fax desde su teléfono, PC o Mac "
+            },
+            {
+                "content": "firma electronica"
+            },
+            {
+                "content": "No hay límites de página mensuales. "
+            },
+            {
+                "content": "Compartir archivos grandes "
+            },
+            {
+                "content": "Faxes buscables"
+            },
+            {
+                "content": "Almacenamiento ilimitado de archivos"
+            }
+        ]
+    },
+    "virtualNumTypes": [
+        {
+            "icon": "fax",
+            "iconColor": "secondary",
+            "title": "Guarde su número de fax existente",
+            "content": "No tiene que renunciar a su número establecido hace mucho tiempo cuando se cambia a nosotros."
+        },
+        {
+            "icon": "user-headset",
+            "iconColor": "primary",
+            "title": "Atención al cliente gratuita 24/7",
+            "content": "Nosotras contestamos el telefono!"
+        },
+        {
+            "icon": "store",
+            "iconColor": "secondary",
+            "title": "Local y gratuita",
+            "content": "Un número de fax local de Tridacom le permite tener presencia en las comunidades a las que atiende que su empresa es parte de la comunidad."
+        },
+        {
+            "icon": "phone-laptop",
+            "iconColor": "primary",
+            "title": "Sin hardware ni software",
+            "content": "No se necesita software. Los faxes se entregan directamente a su correo electrónico como archivos PDF."
+        },
+        {
+            "icon": "inbox-in",
+            "iconColor": "secondary",
+            "title": "Directo a diferentes correos electrónicos",
+            "content": "Envíe y reciba faxes desde su número de eFax desde hasta 5 cuentas de correo electrónico."
+        },
+        {
+            "icon": "archive",
+            "iconColor": "primary",
+            "title": "Archivar y guardar",
+            "content": ""
+        },
+        {
+            "icon": "piggy-bank",
+            "iconColor": "secondary",
+            "title": "Ahorrar dinero ",
+            "content": "No más máquinas de fax, papel, tóner y costos de mantenimiento."
+        },
+        {
+            "icon": "globe-americas",
+            "iconColor": "primary",
+            "title": "Envío de fax internacional sin costo",
+            "content": "Envío de fax internacional sin costo"
+        },
+        {
+            "icon": "lock-alt",
+            "iconColor": "primary",
+            "title": "Fax seguro",
+            "content": "Mantenga sus faxes privados enviándolos directamente a su cuenta de correo electrónico en lugar de guardarlos en una máquina de fax pública."
+        }
+    ],
+    "faqTitle": "Preguntas frecuentes sobre fax virtual"
+}

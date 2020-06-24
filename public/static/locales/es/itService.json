@@ -1,0 +1,141 @@
+{
+    "title": "Servicios de TI",
+    "subTitle": "Un conjunto completo de servicios proactivos gestionados",
+    "serviceHeaderList": [
+        {
+            "title": "Monitoreo de red",
+            "content": "Controlamos la actividad de su red las 24 horas del día, y cuando falla un sistema o función, nuestros equipos de soporte inmediatamente intervienen para investigar. Una vez que se identifica el problema, trabajaremos para solucionarlo, en muchos casos antes de que te des cuenta de que hay un problema."
+        },
+        {
+            "title": "Servicio de asistencia 24x7",
+            "content": "Nuestra mesa de ayuda proporciona soporte 24x7x365, siempre que lo necesite. Se puede contactar a nuestros técnicos altamente calificados por teléfono, correo electrónico o chat basado en la web, y están listos y esperando para ayudar a responder cualquiera de sus preguntas sobre tecnología y brindar un soporte rápido y profesional para una variedad de aplicaciones de software."
+        },
+        {
+            "title": "Continuidad del negocio",
+            "content": "Nuestra solución de respaldo y continuidad de datos garantiza que su información crítica esté segura, respaldada y accesible cuando la necesite, incluso durante una falla de la red o un desastre, por lo que nunca más tendrá que preocuparse por la pérdida de datos."
+        }
+    ],
+    "serviceItems": {
+        "title": "¿Lo estás dejando al azar?",
+        "description": "Asumimos la responsabilidad de preocuparnos por su tecnología para que pueda concentrarse en su negocio",
+        "items": [
+            {
+                "title": "Monitoreo avanzado 24/7",
+                "icon": "clock",
+                "iconColor": "primary",
+                "content": "Garantiza que todos los dispositivos de red críticos que componen la red de su pequeña empresa estén en buen estado y funcionen de manera confiable y óptima."
+            },
+            {
+                "title": "Gestión de seguridad y respaldo",
+                "icon": "database",
+                "iconColor": "secondary",
+                "content": "Mantenga su entorno seguro, protegido y disponible a través de las mejores prácticas de la industria."
+            },
+            {
+                "title": "Soporte remoto y en el sitio",
+                "icon": "user",
+                "iconColor": "primary",
+                "content": "Tiempo dedicado a revisar informes y problemas que son importantes para el rendimiento continuo de su red. Traducimos la tecnología en términos comerciales para usted."
+            },
+            {
+                "title": "Revisiones de salud de la red",
+                "icon": "search",
+                "iconColor": "secondary",
+                "content": "Nuestra solución de respaldo y continuidad de datos garantiza que su información crítica esté segura, respaldada y accesible cuando la necesite, incluso durante una falla de la red o un desastre, por lo que nunca más tendrá que preocuparse por la pérdida de datos."
+            },
+            {
+                "title": "Mantenimiento preventivo",
+                "icon": "cog",
+                "iconColor": "primary",
+                "content": "Asegúrese de que sus servidores, PC y otros dispositivos de red vitales funcionen de manera óptima. Esto mejora la fiabilidad y la seguridad."
+            },
+            {
+                "title": "Optimización en tiempo real.",
+                "icon": "analytics",
+                "iconColor": "secondary",
+                "content": "Mantenga su infraestructura optimizada a través de nuestra tecnología NOC de clase empresarial. Los problemas críticos se identifican, informan y resuelven en tiempo real"
+            },
+            {
+                "title": "Documentación e informes",
+                "icon": "file-alt",
+                "iconColor": "primary",
+                "content": "Creamos documentación detallada y sin paralelo, respaldada por potentes herramientas de informes, para todo en su red"
+            },
+            {
+                "title": "Gestión de activos",
+                "icon": "barcode-alt",
+                "iconColor": "secondary",
+                "content": "Equipo activo y seguimiento de software (marca, modelo, número de serie, garantía, claves de licencia, asignado a, etc.)"
+            },
+            {
+                "title": "Ransomware y Protección AV",
+                "icon": "user-shield",
+                "iconColor": "primary",
+                "content": "Protección avanzada contra amenazas para todas las computadoras y servidores que es monitoreada por nuestro Centro de Operaciones de Red"
+            }
+        ]
+    },
+    "serviceBottom": {
+        "title": "Los servicios de gestión proactiva de Tridacom pueden proporcionarle:",
+        "items": [
+            {
+                "title": "Presupuestación predecible",
+                "icon": "coins",
+                "iconColor": "primary",
+                "content": "El costo inicial de Tridacom elimina las facturas impredecibles por servicios de TI de emergencia."
+            },
+            {
+                "title": "Costos reducidos",
+                "icon": "piggy-bank",
+                "iconColor": "secondary",
+                "content": "Con los servicios gestionados de Tridacom puede eliminar la necesidad de contratar a un equipo de especialistas en tecnología, ahorrando dinero a su empresa."
+            },
+            {
+                "title": "Menos tiempo de inactividad",
+                "icon": "chart-line",
+                "iconColor": "primary",
+                "content": "La mejor defensa es un gran delito mediante el mantenimiento preventivo: los servicios administrados proactivos."
+            },
+            {
+                "title": "Experiencia en la nube",
+                "icon": "cloud",
+                "iconColor": "secondary",
+                "content": "Somos expertos en migrar y mantener entornos en la nube que le brindan la escalabilidad, flexibilidad y rentabilidad que necesita."
+            },
+            {
+                "title": "Acceso a habilidades de TI ",
+                "icon": "laptop-medical",
+                "iconColor": "primary",
+                "content": "Brindamos acceso a una amplia gama de expertos en TI que, de lo contrario, podrían ser demasiado costosos para contratar."
+            },
+            {
+                "title": "Mayor seguridad de TI",
+                "icon": "shield-alt",
+                "iconColor": "secondary",
+                "content": "Tenemos herramientas, procesos y experiencia que mantendrán su negocio y sus datos están protegidos a través de las últimas tecnologías y la educación continua del personal."
+            },
+            {
+                "title": "Soporte de privacidad y cumplimiento",
+                "icon": "eye-slash",
+                "iconColor": "primary",
+                "content": "Ya sea que su negocio esté sujeto a regulaciones específicas de la industria y leyes de privacidad, o si sus clientes requieren ciertos estándares para que usted trabaje con ellos, podemos asegurarnos de que su TI cumpla con todos los requisitos."
+            },
+            {
+                "title": "Orientación Estratégica",
+                "icon": "lightbulb",
+                "iconColor": "secondary",
+                "content": "Podemos traducir su ambición en estrategia de TI. No solo mantenemos y aseguramos sus datos y su entorno de TI, sino que también consultamos sobre cómo usar la tecnología para cumplir sus objetivos corporativos."
+            },
+            {
+                "title": "Tranquilidad de espíritu",
+                "icon": "spa",
+                "iconColor": "primary",
+                "content": "El equipo de profesionales de tecnología de Tridacom está a su disposición, lo que lo hace sentir cómodo para que pueda concentrarse en su negocio"
+            }
+        ]
+    }, 
+    "peaceOfMind": {
+        "title": "Tranquilidad con servicios gestionados proactivos",
+        "content": "El tiempo de inactividad es una pesadilla de productividad, dejando a su negocio en un punto muerto. Esperar a que el equipo falle o asumir que sus sistemas son seguros puede costarle. Un contrato de servicios gestionados proactivos con Tridacom le proporciona un plan para la salud, seguridad y alta disponibilidad de sus sistemas de TI"
+    }
+}

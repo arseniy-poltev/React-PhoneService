@@ -1,0 +1,134 @@
+{
+    "btn_check_prices": "Vérifier les prix",
+    "btn_learn_more": "Apprendre encore plus",
+    "carouselItems": [
+        {
+            "titleTop": "Que pouvons-nous faire pour vous?",
+            "mainTitle": "Solutions de voyage",
+            "content": "Que pouvons-nous faire pour vous?",
+            "list": [
+                {
+                    "title": "Rester connecté – ",
+                    "content": "Make and receive calls worldwide "
+                },
+                {
+                    "title": "Gardez votre numéro – ",
+                    "content": "Faire et recevoir des appels dans le monde entier"
+                },
+                {
+                    "title": "Réduire les coûts -",
+                    "content": "Avec des plans de données mobiles destinés à être utilisés à l'étranger"
+                }
+            ]
+        },
+        {
+            "titleTop": "Que pouvons-nous faire pour vous?",
+            "mainTitle": "Solutions personnelles",
+            "content": "Transférez-nous votre numéro personnel et profitez d'avantages instantanés",
+            "list": [
+                {
+                    "title": "Augmentez l'agilité – ",
+                    "content": "travailler n'importe où"
+                },
+                {
+                    "title": "Rester en contact -",
+                    "content": "Vos numéros restent avec vous"
+                },
+                {
+                    "title": "Réduire les coûts -",
+                    "content": "Économisez de l'argent en nous mettant à niveau"
+                }
+            ]
+        },
+        {
+            "titleTop": "Que pouvons-nous faire pour vous?",
+            "mainTitle": "Solutions d'entreprise",
+            "content": "Transférez-nous vos numéros d'entreprise et voyez des avantages instantanés",
+            "list": [
+                {
+                    "title": "Augmentez l'agilité –",
+                    "content": " effectuez facilement des mouvements, des ajouts ou des changements dans plusieurs endroits "
+                },
+                {
+                    "title": "Facile à cultiver -",
+                    "content": "évolutif à travers les emplacements à mesure que vous grandissez"
+                },
+                {
+                    "title": "Réduire les coûts -",
+                    "content": "Économisez de l'argent en nous mettant à niveau"
+                }
+            ]
+        }
+    ],
+    "promoItems": [
+        {
+            "title": "Parking",
+            "icon": "parking",
+            "content": "Affaires temporairement suspendues? Garez votre numéro chez nous pour conserver votre numéro à un prix réduit."
+        },
+        {
+            "title": "Transfert de numéro",
+            "icon": "arrow-circle-right",
+            "content": "Mettez à l'échelle avec enthousiasme les impératifs essentiels à la mission plutôt qu'une gamme étendue."
+        },
+        {
+            "title": "Réseau téléphonique mondial",
+            "icon": "globe",
+            "content": "Notre réseau téléphonique mondial de classe opérateur couvre 78 pays pour vous garder connecté à l'échelle mondiale."
+        }
+    ],
+    "gettingStartContent":  {
+        "title": "Commencez en quelques minutes et ne manquez jamais un appel",
+        "description": "Transférez votre numéro de téléphone, de fax ou sans frais existant et commencez à économiser dès maintenant avec nos plans de stationnement et de transfert abordables.",
+        "items": [
+            {
+                "title": "Téléchargez notre appli",
+                "icon": "mobile-alt",
+                "read_more": "Lire la suite",
+                "iconColor": "primary",
+                "content": "Habilitez progressivement les entreprises à penser «hors des sentiers battus» grâce à des partenariats de mise à niveau des ressources."
+            },
+            {
+                "title": "Configurez votre compte",
+                "icon": "tasks",
+                "read_more": "Lire la suite",
+                "iconColor": "primary",
+                "content": "Habilitez progressivement les entreprises à penser «hors des sentiers battus» grâce à des partenariats de mise à niveau des ressources."
+            },
+            {
+                "title": "Gérez votre numéro",
+                "icon": "user-cog",
+                "read_more": "Lire la suite",
+                "iconColor": "primary",
+                "content": "Habilitez progressivement les entreprises à penser «hors des sentiers battus» grâce à des partenariats de mise à niveau des ressources."
+            }
+        ]
+    },
+    "download_app": {
+        "title": "Téléchargez notre appli",
+        "description":"N'est-il pas temps d'utiliser votre téléphone comme vous le souhaitez?",
+        "content": "Descargar desde"
+    },
+    "about": {
+        "title": "Dédié à fournir des solutions informatiques pour les demandes d'aujourd'hui",
+        "description": "Dans une crise mondiale, les bonnes solutions peuvent vous aider à surmonter l'incertitude, à vous adapter aux conditions changeantes et à devenir plus résilient",
+        "items": [
+            {
+                "title": "Augmentez l'agilité",
+                "content": "travailler n'importe où"
+            },
+            {
+                "title": "Rester en contact",
+                "content": "Vos chiffres disent avec vous"
+            },
+            {
+                "title": "Réduire les coûts",
+                "content": "Économisez de l'argent en nous mettant à niveau"
+            },
+            {
+                "title": "Compagnie ",
+                "content": "Solutions de marque"
+            }
+        ]
+    }
+}

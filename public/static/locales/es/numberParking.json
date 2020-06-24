@@ -1,0 +1,94 @@
+{
+    "title": "Numero de estacionamiento",
+    "subTitle": "Mantenga su número y deje de pagar facturas telefónicas altas",
+    "header": [
+        {
+            "title": "Bajo costo",
+            "content": "Las tarifas de estacionamiento más bajas en la industria."
+        },
+        {
+            "title": "Transferencia Rápida",
+            "content": "Rápido puerto de entrada y salida sin problemas."
+        },
+        {
+            "title": "Opciones flexibles",
+            "content": "Actualice los planes, la configuración y la cuenta en línea."
+        },
+        {
+            "title": "Mantienes tu número",
+            "content": " usted es dueño de su número sin condiciones"
+        }
+    ],
+    "whyShouldPark": {
+        "title": "¿Por qué debería estacionar su teléfono con nosotras?",
+        "content": "Los teléfonos inteligentes ahora son los preferidos sobre los teléfonos fijos, sin embargo, a menudo mantenemos un teléfono fijo porque siempre lo hemos tenido. ¿Todos los que necesiten contactarte podrán hacerlo? ¿Te perderás algunas llamadas importantes? <br/> Ahora, sin embargo, hay nuevas formas de abordar estas inquietudes mientras se optimiza la configuración de su teléfono personal o comercial. Los servicios de estacionamiento, notificación y reenvío de números telefónicos le brindan formas de deshacerse de los servicios telefónicos físicos mientras conserva los números telefónicos asociados."
+    },
+    "parkingItems": [
+        {
+            "icon": "plane-departure",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "content": "Podemos ayudar almacenando su número de teléfono hasta que regrese. Incluso puede mantener el acceso completo a su número completo a través de nuestra aplicación Wi-Fi o por correo electrónico.",
+                    "title": "Traveling or living abroad?"
+                }
+            ]
+
+        },
+        {
+            "icon": "truck-couch",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Movimientos personales",
+                    "content": "Ya sea un parque a corto plazo mientras se encuentra entre ubicaciones o después de una mudanza permanente cuando desea mantener el número que siempre ha tenido. Estacionar su número por poco tiempo es una excelente manera de evitar perderlo. ¡Estacionar con notificaciones o reenvíos puede ser una excelente manera de mantenerse en contacto!"
+                }
+            ]
+        },
+        {
+            "icon": "dolly",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "title": "Movimientos comerciales",
+                    "content": "Mover un negocio puede ponerlo en las mismas situaciones que antes, pero con algunos efectos secundarios graves en sus resultados. Las llamadas telefónicas perdidas de los clientes pueden significar literalmente perder negocios. Estos servicios ofrecen una forma económica de protegerse contra eso"
+                }
+            ]
+        },
+        {
+            "icon": "phone-plus",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "¿Necesitas un nuevo número?",
+                    "content": "Cada vez que obtienes un nuevo número, es una molestia informar a todos tus contactos anteriores. Nuestro desvío de llamadas le permite desviar sin problemas las llamadas de su número anterior directamente al nuevo. No te preocupes por perder viejos contactos o negocios"
+                }
+            ]
+        },
+        {
+            "icon": "file-contract",
+            "iconColor": "secondary",
+            "item": [
+                {
+                    "title": "Manejo de Gestión de Bienes",
+                    "content": "Atar los cabos sueltos después de que alguien muere puede llevar tiempo. Reenviar un número de teléfono puede ayudar a garantizar que reciba todas las comunicaciones necesarias para ayudarlo a hacer esto, al tiempo que elimina el costo continuo de mantener líneas telefónicas que ya no son necesarias."
+                }
+            ]
+        },
+        {
+            "icon": "phone-rotary",
+            "iconColor": "primary",
+            "item": [
+                {
+                    "title": "Números telefónicos no utilizados?",
+                    "content": "No es necesario pagar facturas por números de teléfono no utilizados o raramente utilizados. Con nuestro servicio de estacionamiento de números, podemos congelar sus líneas telefónicas no utilizadas hasta que esté listo para usarlo nuevamente. Puede congelar su número por tan solo $ 3 / mes"
+                },
+                {
+                    "title": "¿Consolidando líneas telefónicas?",
+                    "content": "La comunicación puede ser complicada cuando tienes varios números de teléfono Ahorre dinero en sus facturas telefónicas mientras agiliza su comunicación redirigiendo todos sus números telefónicos a una línea telefónica o correo electrónico."
+                }
+            ]
+        }
+    ],
+    "faqTitle": "Preguntas frecuentes sobre reenvío de números"
+}

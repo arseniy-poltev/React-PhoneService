@@ -1,0 +1,122 @@
+{
+    "title": "Reenvío de llamadas",
+    "subTitle": "La mejor manera de mantener su número y dejar de pagar facturas telefónicas altas",
+    "header": [
+        {
+            "title": "¿Quieres ahorrar dinero?",
+            "content": "Mantenga su número de teléfono y pague solo por su uso."
+        },
+        {
+            "title": "¿Quieres más libertad? ¿Quieres agilizar?",
+            "content": "Redireccione todos sus números de teléfono a una línea telefónica o correo electrónico."
+        },
+        {
+            "title": "¿Quieres mantener un número importante?",
+            "content": ""
+        }
+    ],
+    "whatIsCallForwarding": {
+        "title": "Qué es el desvío de llamadas:",
+        "description": "El servicio de reenvío de llamadas le permite reenviar sin problemas cualquier llamada realizada a su teléfono estacionado a cualquier número de EE. UU., Canadá o Skype que elija. Mantiene su antiguo identificador de llamadas. <br/> El desvío se puede usar con varias líneas telefónicas: puede elegir recibir todas las llamadas en un solo teléfono o a través de un teléfono separado para cada número.",
+        "items": [
+            {
+                "title": "Obtenga un número gratuito para su negocio",
+                "content": "Obtenga un número gratuito para que su empresa cree una presencia nacional o un número local para atraer a su comunidad. También puede mantener su número de teléfono comercial actual y conectarlo a su nueva cuenta"
+            },
+            {
+                "title": "Crea tu propio saludo de empresa",
+                "content": "Grabe su propio saludo personalizado que brinde a sus clientes la información que necesitan. O haga que uno de nuestros profesionales lo grabe por usted"
+            },
+            {
+                "title": "Ruta de llamadas a donde quieras",
+                "content": "Desvía fácilmente las llamadas a tu casa, oficina o teléfono móvil e incluye opciones de menú en tu saludo para que las personas que llamen elijan la extensión o departamento apropiado"
+            },
+            {
+                "title": "Haga su negocio sobre la marcha",
+                "content": "Use la aplicación móvil para obtener la forma más rápida y conveniente de escuchar mensajes de voz, ver mensajes de texto, reenviar llamadas y detectar números no deseados."
+            },
+            {
+                "title": "Administre fácilmente su cuenta en línea",
+                "content": "Administre su sistema telefónico directamente desde su computadora de escritorio o dispositivo móvil. Elija la programación de enrutamiento de llamadas, mensajes de correo de voz y extensiones, todo en un solo lugar."
+            }
+        ]
+    },
+    "ourCallFeatures": {
+        "title": "Nuestras funciones de desvío de llamadas",
+        "items": [
+            {
+                "title": "Desvío de llamadas globales",
+                "icon": "phone-volume",
+                "iconColor": "secondary",
+                "content": "Las llamadas entrantes se pueden desviar a cualquier lugar, en todo el mundo por el costo de una llamada local. Muestre sus números internacionales en su sitio web para una presencia global."
+            },
+            {
+                "title": "Mensaje de texto",
+                "icon": "comment-alt-dots",
+                "iconColor": "primary",
+                "content": "Envíe y reciba mensajes de texto con sus números de teléfono de Tridacom. No disponible para números gratuitos."
+            },
+            {
+                "title": "Llame desde sus números internacionales",
+                "icon": "globe",
+                "iconColor": "secondary",
+                "content": "Puede realizar llamadas desde sus números de teléfono, utilizando su teléfono, desde cualquier parte del mundo."
+            },
+            {
+                "title": "Correo de voz a correo electrónico",
+                "icon": "inbox-in",
+                "iconColor": "primary",
+                "content": "Los mensajes se envían a su correo electrónico como un archivo de audio. Escucha y descarga el mensaje. Cargue su propio saludo de correo de voz personalizado o grabe uno por teléfono."
+            },
+            {
+                "title": "Bloqueo de llamadas",
+                "icon": "phone-slash",
+                "iconColor": "secondary",
+                "content": "¿Recibe llamadas no deseadas? ¿Telemarketer sin parar, robo, fraude o phishing haciendo estallar su número de teléfono? Agréguelos fácilmente a su lista de bloqueados. Las llamadas ya no le llegarán y nunca más volverá a saber de ellas."
+            },
+            {
+                "title": "911",
+                "icon": "siren-on",
+                "iconColor": "primary",
+                "content": "Nuestra infraestructura admite llamadas de emergencia. Se lo guiará a través del proceso cuando active su cuenta."
+            },
+            {
+                "title": "Seleccionar identificador de llamadas entrantes",
+                "icon": "mobile-android-alt",
+                "iconColor": "secondary",
+                "content": "¿Usa su número para negocios y lo reenvía a su teléfono celular? Sabrá si esa llamada proviene de su número de Tridacom y puede responder adecuadamente"
+            },
+            {
+                "title": "Identificador de llamadas salientes",
+                "icon": "portrait",
+                "iconColor": "primary",
+                "content": "Realice llamadas que muestren su identificador de llamadas desde cualquier número de su cuenta. Muestra el número de teléfono que seleccionas de tu cuenta"
+            },
+            {
+                "title": "Respuesta de voz",
+                "icon": "voicemail",
+                "iconColor": "secondary",
+                "content": "Respuesta de voz y correo de voz fáciles de configurar. Los mensajes pregrabados están disponibles en muchos idiomas. Grabe fácilmente sus propios mensajes desde cualquier teléfono."
+            },
+            {
+                "title": "Números telefónicos comerciales múltiples",
+                "icon": "phone-plus",
+                "iconColor": "primary",
+                "content": "Múltiples números, todo dentro de un solo sistema telefónico. Puede configurar diferentes flujos de llamadas y reglas de llamadas para cada número que haya habilitado y Tridacom se encargará de las llamadas a cada número en consecuencia."
+            },
+            {
+                "title": "Un número de teléfono local",
+                "icon": "map-marker-alt",
+                "iconColor": "secondary",
+                "content": "Una de las formas más fáciles de conectarse con los lugareños, ya sea que vivan o no. Puede darle a su pequeña empresa una sensación de ciudad múltiple y a su gran empresa una sensación local."
+            },
+            {
+                "title": "Grabación de llamadas y registros de llamadas",
+                "icon": "usb-drive",
+                "iconColor": "primary",
+                "content": "Revise sus llamadas telefónicas entrantes y salientes. Ordenar por período de facturación, número de teléfono y / o tipo de llamada. Puede escuchar mensajes de correo de voz. Descargue registros en un archivo .csv e impórtelos en su aplicación de hoja de cálculo favorita."
+            }
+        ]
+    },
+    "faqTitle": "Preguntas frecuentes sobre el desvío de llamadas"
+}

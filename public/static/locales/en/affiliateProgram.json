@@ -1,0 +1,55 @@
+{
+    "title": "Affiliate Program",
+    "subTitle": "Earn 20% recurring commission on every purchase made from your referral",
+    "header": {
+        "title": "Get a 20% recurring commission for every sale!",
+        "description": "Join our Affiliate Program today and start making money!",
+        "items": [
+            {
+                "content": "Register for FREE"
+            },
+            {
+                "content": "Highly competitive commissions"
+            },
+            {
+                "content": "Get paid every month"
+            },
+            {
+                "content": "Endless Opportunity"
+            }
+        ]
+    },
+    "howDoesItWork": {
+        "title": "How Does it Work?",
+        "description": "Earn 20% recurring commission on every purchase made from your referral link ",
+        "items": [
+            {
+                "icon": "user-plus",
+                "iconColor": "secondary",
+                "title": "Register for FREE",
+                "content": "Sign up to be a part of our Affiliate Program"
+            },
+            {
+                "icon": "link",
+                "iconColor": "secondary",
+                "title": "Get a Referral Link",
+                "content": "Immediately receive a referral link"
+            },
+            {
+                "icon": "share-square",
+                "iconColor": "secondary",
+                "title": "Share your Link",
+                "content": "Share your referral link to as much as you can on various platforms."
+            },
+            {
+                "icon": "paypal",
+                "iconColor": "secondary",
+                "title": "Get paid every month",
+                "content": "Earn commission each month for purchases made from your referral link."
+            }
+        ]
+    },
+    "faqTitle": "Affiliate Program FAQ’s",
+    "becomeAndAffiliate": "Become and affiliate in less than 3 minutes and start earning money",
+    "btn_signup_now": "Sign Up Now"
+}

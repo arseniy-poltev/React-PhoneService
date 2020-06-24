@@ -1,0 +1,55 @@
+{
+    "title": "programa de afiliación",
+    "subTitle": "Gane un 20% de comisión recurrente en cada compra realizada a partir de su referencia",
+    "header": {
+        "title": "¡Obtenga una comisión recurrente del 20% por cada venta!",
+        "description": "¡Únase a nuestro programa de afiliados hoy y comience a ganar dinero!",
+        "items": [
+            {
+                "content": "Registrate gratis"
+            },
+            {
+                "content": "Comisiones altamente competitivas"
+            },
+            {
+                "content": "Cobra todos los meses"
+            },
+            {
+                "content": "Oportunidad sin fin"
+            }
+        ]
+    },
+    "howDoesItWork": {
+        "title": "¿Como funciona?",
+        "description": "Gane un 20% de comisión recurrente en cada compra realizada desde su enlace de referencia",
+        "items": [
+            {
+                "icon": "user-plus",
+                "iconColor": "secondary",
+                "title": "Registrate gratis",
+                "content": "Regístrese para ser parte de nuestro programa de afiliados"
+            },
+            {
+                "icon": "link",
+                "iconColor": "secondary",
+                "title": "Obtenga un enlace de referencia",
+                "content": "Reciba inmediatamente un enlace de referencia"
+            },
+            {
+                "icon": "share-square",
+                "iconColor": "secondary",
+                "title": "Comparte tu enlace",
+                "content": "Comparta su enlace de referencia tanto como pueda en varias plataformas."
+            },
+            {
+                "icon": "paypal",
+                "iconColor": "secondary",
+                "title": "Cobra todos los meses",
+                "content": "Gane comisiones cada mes por compras realizadas desde su enlace de referencia."
+            }
+        ]
+    },
+    "faqTitle": "Preguntas frecuentes del programa de afiliados",
+    "becomeAndAffiliate": "Conviértase y afíliese en menos de 3 minutos y comience a ganar dinero",
+    "btn_signup_now": "Regístrate ahora"
+}

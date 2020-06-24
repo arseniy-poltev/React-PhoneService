@@ -1,0 +1,77 @@
+{
+    "title": "Numero virtual",
+    "subTitle": "La forma más flexible de hacer que su servicio telefónico satisfaga sus necesidades.",
+    "header": [
+        {
+            "content": "Dirige tus llamadas de negocios a cualquier lugar"
+        },
+        {
+            "content": "Trabaja fácilmente de forma remota"
+        },
+        {
+            "content": "Use un número de teléfono local en un área donde tenga muchos clientes"
+        },
+        {
+            "content": "Unir departamentos en Ubicado en Differen"
+        }
+    ],
+    "WhatIsVirtualNumber": {
+        "title": "¿Qué es un número virtual?",
+        "description": "A diferencia de los números de teléfono tradicionales, que están diseñados para encerrarlo en una ubicación física, un contrato con operadores y un número para cada teléfono, los números virtuales viven en la nube y se puede acceder desde cualquier dispositivo que tenga conexión a Internet. Además, con un número de teléfono virtual ya no está restringido a números de teléfono \"locales\" en su área, puede elegir."
+    },
+    "whyUseVirtualPhoneNum": {
+        "title": "¿Por qué usar un número de teléfono virtual?",
+        "items": [
+            {
+                "title": "Conveniencia ",
+                "content": "Una vez que obtenga un número virtual de nosotros, obtendrá acceso instantáneo a él. No hay hardware para configurar, tarjeta SIM para instalar o cables para conectar. Si desea cambiar su número o agregar uno nuevo, puede hacerlo al instante. También puede acceder a su número virtual desde cualquier dispositivo móvil. Cuando está conectado a Internet, puede usar su número en cualquier lugar."
+            },
+            {
+                "title": "Libertad y privacidad",
+                "content": "Los números virtuales le permiten moverse fácilmente entre dispositivos. Esta es una buena opción para las empresas que de otra manera no podrían pagar una línea dedicada para llamadas de negocios, o para contratistas independientes que trabajan de manera irregular. <br/> Personas de todas las industrias, desde <a class='text-primary' href='https://www.theverge.com/2018/10/18/17995540/uber-voip-data-call'> ride -share drivers </a> y repartidores, <a class = 'text-primary' href = 'https: //www.bmmagazine.co.uk/marketing/creative-ways-to-use-virtual-phone-numbers -for-marketing-campañas / '> roles creativos </a> y <a class =' ​​text-primary 'href =' https: //www.canadianbusiness.com/innovation/how-to-be-everywhere-at- Once-with-virtual-phone-numbers '/> start-up CEOS </a> están utilizando números virtuales para hacer crecer sus negocios. Las citas en línea son otra razón popular para seleccionar un número virtual. Es importante mantenerse seguro mientras se conecta con nuevas personas; un número virtual es una adición clave a su rutina de privacidad. El uso de uno para las nuevas coincidencias de Tinder le permite retener su número de teléfono real hasta que sepa más sobre su fecha, y agrega una capa de seguridad a su vida en línea. Con la capacidad de cambiar números y seleccionar números nuevos en cualquier momento, no está encerrado en un contrato telefónico complicado y costoso. En todo el mundo, los números de VoIP son mucho menos costosos que los números de teléfono tradicionales. Si está utilizando una aplicación de número de teléfono, entonces es muy simple agregar nuevos números a su dispositivo o quemar los viejos que ya no desea usar."
+            },
+            {
+                "title": "Tener una presencia local",
+                "content": "Con un número virtual, no está limitado a un código de área local. También puede variar el tipo de número que usa. Por ejemplo, los números gratuitos y los números personalizados son opciones útiles de números virtuales para pequeñas empresas. También puede agregar números internacionales si lo prefiere, dependiendo del servicio que seleccione. Muchos servicios de VoIP permiten a los clientes elegir su propio código de área. ¡Hushed le permite elegir el número completo de nuestra lista disponible y ofrece números en más de 60 países!"
+            },
+            {
+                "title": "Opciones locales e internacionales.",
+                "content": "En general, los números virtuales son mucho menos costosos que los números tradicionales. También permiten al usuario obtener un número de teléfono local en un país diferente. Con uno de estos números, puede realizar y recibir llamadas y mensajes de texto en otro país, pero se le cobrará el mismo precio que un número local tradicional. Esto significa un ahorro de costos instantáneo porque puede evitar los cargos de llamadas y mensajes de texto internacionales que afectan el servicio telefónico normal."
+            },
+            {
+                "title": "Obtenga un número virtual hoy",
+                "content": "En resumen, hemos explorado las diferencias entre los números ordinarios y los números virtuales. También hemos analizado los motivos por los que es posible que desee obtener un número virtual. Los números virtuales combinan los beneficios de los números móviles con la opción de mover fácilmente su número a través de múltiples dispositivos. Son convenientes, fáciles de cambiar y agregan privacidad y seguridad a su negocio o vida personal. Hay varias opciones para números virtuales, incluido Hushed. ¡Una búsqueda rápida en Google de \"Número de teléfono virtual\" arroja más de 400,000 resultados! Recomendamos tomarse su tiempo para consultar las principales opciones disponibles; No es ningún secreto que creemos que Hushed es increíble, ¡pero tratamos de ser imparciales aquí en el blog y dejamos que la aplicación hable por sí misma! Cualquiera sea la opción que elija, no puede equivocarse con un número de teléfono virtual."
+            }
+        ]
+    },
+    "howToAnswer": {
+        "title": "Elija cómo responder su nuevo número de teléfono virtual",
+        "description": "Cualquier dispositivo de comunicación conectado a Internet funcionará con los números virtuales de Tridacom.",
+        "items": [
+            {
+                "icon": "phone-rotary",
+                "iconColor": "primary",
+                "title": "Su teléfono existente",
+                "content": "No es necesario comprar un teléfono nuevo, use el que tiene. Use cualquier teléfono analógico tradicional con"
+            },
+            {
+                "icon": "mobile-alt",
+                "iconColor": "secondary",
+                "title": "Teléfonos móviles",
+                "content": "Cualquier teléfono inteligente o teléfono móvil. Básicamente, si puede obtener un tono de marcado, funcionará con Phone.com."
+            },
+            {
+                "icon": "phone-laptop",
+                "iconColor": "primary",
+                "title": "Softphones",
+                "content": "Use su computadora como extensión de teléfono con el software Phone.com Communicator. Simplemente descargue, instale y ya está listo."
+            },
+            {
+                "icon": "phone-office",
+                "iconColor": "secondary",
+                "title": "Teléfonos IP listos para timbre",
+                "content": "Los teléfonos comprados directamente en Phone.com vienen preconfigurados, listos para funcionar en el momento en que se conectan a su red."
+            }
+        ]
+    }
+}

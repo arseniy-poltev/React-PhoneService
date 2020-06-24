@@ -1,0 +1,134 @@
+{
+    "btn_check_prices": "Consultar precios",
+    "btn_learn_more": "Aprende más",
+    "carouselItems": [
+        {
+            "titleTop": "¿Qué podemos hacer por ti?",
+            "mainTitle": "Soluciones de viaje",
+            "content": "¿Qué podemos hacer por ti?",
+            "list": [
+                {
+                    "title": "Mantente conectada – ",
+                    "content": "Haz y recibe llamadas en todo el mundo "
+                },
+                {
+                    "title": "Mantener su número – ",
+                    "content": "Realiza y recibe llamadas en todo el mundo."
+                },
+                {
+                    "title": "Reducir costos -",
+                    "content": "Con planes de datos móviles destinados a su uso en el extranjero."
+                }
+            ]
+        },
+        {
+            "titleTop": "¿Qué podemos hacer por ti?",
+            "mainTitle": "Soluciones personales",
+            "content": "Transfiera su número personal a nosotros y vea beneficios instantáneos",
+            "list": [
+                {
+                    "title": "Aumentar la agilidad – ",
+                    "content": "trabajar en cualquier lugar"
+                },
+                {
+                    "title": "Mantenerse en contacto -",
+                    "content": "Tus números se quedan contigo"
+                },
+                {
+                    "title": "Reducir costos -",
+                    "content": "Ahorra dinero actualizando a nosotras"
+                }
+            ]
+        },
+        {
+            "titleTop": "¿Qué podemos hacer por ti?",
+            "mainTitle": "Soluciones empresariales",
+            "content": "Transfiera sus números comerciales y vea beneficios instantáneos",
+            "list": [
+                {
+                    "title": "Aumentar la agilidad–",
+                    "content": " realice fácilmente movimientos, adiciones o cambios en múltiples ubicaciones "
+                },
+                {
+                    "title": "Fácil de cultivar -",
+                    "content": "escalable a través de ubicaciones a medida que crece"
+                },
+                {
+                    "title": "Reducir costos -",
+                    "content": "Ahorra dinero actualizando a nosotras"
+                }
+            ]
+        }
+    ],
+    "promoItems": [
+        {
+            "title": "Numero de estacionamiento",
+            "icon": "parking",
+            "content": "Negocio temporalmente en espera? Estacione su número con nosotros para mantener su número a un precio reducido."
+        },
+        {
+            "title": "Reenvío de números",
+            "icon": "arrow-circle-right",
+            "content": "Escale con entusiasmo los imperativos de misión crítica en lugar de una matriz expandida."
+        },
+        {
+            "title": "Red telefónica global",
+            "icon": "globe",
+            "content": "Nuestra red telefónica global de nivel operador cubre 78 países para mantenerlo conectado a nivel mundial."
+        }
+    ],
+    "gettingStartContent":  {
+        "title": "Comience en minutos y nunca pierda una llamada",
+        "description": "Transfiera su número de teléfono, fax o teléfono gratuito existente y comience a ahorrar ahora con nuestros planes asequibles de estacionamiento y reenvío.",
+        "items": [
+            {
+                "title": "Descargue nuestra aplicación",
+                "icon": "mobile-alt",
+                "read_more": "Lee mas",
+                "iconColor": "primary",
+                "content": "Potenciar progresivamente el pensamiento empresarial \"fuera de la caja\" con asociaciones de nivelación de recursos."
+            },
+            {
+                "title": "Configurar tu cuenta",
+                "icon": "tasks",
+                "read_more": "Lee mas",
+                "iconColor": "primary",
+                "content": "Potenciar progresivamente el pensamiento empresarial \"fuera de la caja\" con asociaciones de nivelación de recursos."
+            },
+            {
+                "title": "Administra tu número",
+                "read_more": "Lee mas",
+                "icon": "user-cog",
+                "iconColor": "primary",
+                "content": "Potenciar progresivamente el pensamiento empresarial \"fuera de la caja\" con asociaciones de nivelación de recursos."
+            }
+        ]
+    },
+    "download_app": {
+        "title": "Descargue nuestra aplicación",
+        "description":"¿No es hora de que uses tu teléfono de la manera que quieres?",
+        "content": "Descargar desde"
+    },
+    "about": {
+        "title": "Dedicado a proporcionar soluciones de TI para las demandas de hoy",
+        "description": "En una crisis global, las soluciones adecuadas pueden ayudarlo a navegar por la incertidumbre, adaptarse a las condiciones cambiantes y ser más resistente",
+        "items": [
+            {
+                "title": "Aumentar la agilidad ",
+                "content": "trabajar en cualquier lugar"
+            },
+            {
+                "title": "Mantenerse en contacto ",
+                "content": "Your numbers say with you"
+            },
+            {
+                "title": "Reducir costos ",
+                "content": "Ahorra dinero actualizando a nosotras"
+            },
+            {
+                "title": "Empresa ",
+                "content": "Soluciones de marca"
+            }
+        ]
+    }
+}

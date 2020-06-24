@@ -1,0 +1,122 @@
+{
+    "title": "Renvoi d'appel",
+    "subTitle": "La meilleure façon de conserver votre numéro et de cesser de payer des factures téléphoniques élevées",
+    "header": [
+        {
+            "title": "Vous voulez économiser de l'argent?",
+            "content": "Gardez votre numéro de téléphone et ne payez que pour votre utilisation."
+        },
+        {
+            "title": "Vous voulez plus de liberté? Vous voulez rationaliser?",
+            "content": "Redirigez tous vos numéros de téléphone vers une ligne téléphonique ou un e-mail."
+        },
+        {
+            "title": "Vous souhaitez conserver un numéro important?",
+            "content": ""
+        }
+    ],
+    "whatIsCallForwarding": {
+        "title": "Qu'est-ce que le renvoi d'appel:",
+        "description": "Le service de transfert d'appel vous permet de transférer en toute transparence tous les appels effectués vers votre téléphone parqué vers n'importe quel numéro américain, canadien ou Skype de votre choix. Vous conservez votre ancienne identification de l'appelant. <br/> Le renvoi peut être utilisé avec plusieurs lignes téléphoniques - vous pouvez choisir de recevoir tous les appels sur un seul téléphone ou via un téléphone distinct pour chaque numéro.",
+        "items": [
+            {
+                "title": "Obtenez un numéro sans frais pour votre entreprise",
+                "content": "Obtenez un numéro sans frais pour votre entreprise afin de créer une présence nationale, ou un numéro local pour attirer votre communauté. Vous pouvez également conserver votre numéro de téléphone professionnel actuel et le connecter à votre nouveau compte"
+            },
+            {
+                "title": "Créez votre propre message d'accueil",
+                "content": "Enregistrez votre propre message d'accueil personnalisé qui donne à vos clients les informations dont ils ont besoin. Ou demandez à l'un de nos professionnels de l'enregistrer pour vous"
+            },
+            {
+                "title": "Acheminez les appels où vous voulez",
+                "content": "Transférez facilement les appels vers votre domicile, votre bureau ou votre téléphone portable et incluez des options de menu dans votre message d'accueil pour permettre aux appelants de choisir le poste ou le service approprié"
+            },
+            {
+                "title": "Faites vos affaires où que vous soyez",
+                "content": "Utilisez l'application mobile pour le moyen le plus rapide et le plus pratique d'entendre les messages vocaux, d'afficher les messages texte, de renvoyer les appels et de filtrer les numéros indésirables."
+            },
+            {
+                "title": "Gérez facilement votre compte en ligne",
+                "content": "Gérez votre système téléphonique directement depuis votre ordinateur de bureau ou votre appareil mobile. Choisissez la planification du routage des appels, les messages vocaux et les extensions, le tout au même endroit."
+            }
+        ]
+    },
+    "ourCallFeatures": {
+        "title": "Nos fonctions de renvoi d'appel",
+        "items": [
+            {
+                "title": "Renvoi d'appel mondial",
+                "icon": "phone-volume",
+                "iconColor": "secondary",
+                "content": "Les appels entrants peuvent être transférés n'importe où, dans le monde entier pour le coût d'un appel local. Affichez vos numéros internationaux sur votre site Web pour une présence mondiale."
+            },
+            {
+                "title": "La messagerie texte",
+                "icon": "comment-alt-dots",
+                "iconColor": "primary",
+                "content": "Envoyez et recevez des SMS avec vos numéros de téléphone Tridacom. Non disponible pour les numéros sans frais."
+            },
+            {
+                "title": "Appelez depuis vos numéros internationaux",
+                "icon": "globe",
+                "iconColor": "secondary",
+                "content": "Vous pouvez passer des appels à partir de vos numéros de téléphone, en utilisant votre téléphone, de n'importe où dans le monde."
+            },
+            {
+                "title": "Messagerie vocale vers e-mail",
+                "icon": "inbox-in",
+                "iconColor": "primary",
+                "content": "Les messages sont envoyés par e-mail sous forme de fichier audio. Écoutez et téléchargez le message. Téléchargez votre propre message d'accueil personnalisé ou enregistrez-le par téléphone."
+            },
+            {
+                "title": "Blocage d'appels",
+                "icon": "phone-slash",
+                "iconColor": "secondary",
+                "content": "Vous recevez des appels indésirables? Télémarketing non-stop, robo, fraude ou phishing faisant exploser votre numéro de téléphone? Ajoutez-les facilement à votre liste bloquée. Les appels ne vous parviendront plus et vous ne les entendrez plus jamais."
+            },
+            {
+                "title": "911",
+                "icon": "siren-on",
+                "iconColor": "primary",
+                "content": "Notre infrastructure prend en charge les appels d'urgence. Vous serez guidé à travers le processus lorsque vous activez votre compte."
+            },
+            {
+                "title": "Sélection de l'ID de l'appelant entrant",
+                "icon": "mobile-android-alt",
+                "iconColor": "secondary",
+                "content": "Vous utilisez votre numéro pour les affaires et vous transférez sur votre téléphone portable? Vous saurez si cet appel provient de votre numéro Tridacom et pourrez répondre de manière appropriée"
+            },
+            {
+                "title": "ID de l'appelant sortant",
+                "icon": "portrait",
+                "iconColor": "primary",
+                "content": "Passez des appels en indiquant votre numéro d'appelant à partir de n'importe quel numéro de votre compte. Affichez le numéro de téléphone que vous sélectionnez dans votre compte"
+            },
+            {
+                "title": "Réponse vocale",
+                "icon": "voicemail",
+                "iconColor": "secondary",
+                "content": "Réponse vocale et messagerie vocale faciles à configurer. Les messages préenregistrés sont disponibles dans de nombreuses langues. Enregistrez facilement vos propres messages depuis n'importe quel téléphone."
+            },
+            {
+                "title": "Plusieurs numéros de téléphone professionnels",
+                "icon": "phone-plus",
+                "iconColor": "primary",
+                "content": "Plusieurs numéros dans un seul système téléphonique. Vous pouvez configurer différents flux d'appels et règles d'appel pour chaque numéro que vous avez activé et Tridacom traitera les appels vers chaque numéro en conséquence."
+            },
+            {
+                "title": "Un numéro de téléphone local",
+                "icon": "map-marker-alt",
+                "iconColor": "secondary",
+                "content": "L'un des moyens les plus simples de se connecter avec les habitants - que vous viviez ou non. Cela peut donner à votre petite entreprise une sensation multi-ville et à votre grande entreprise une sensation locale."
+            },
+            {
+                "title": "Enregistrement d'appels et journaux d'appels",
+                "icon": "usb-drive",
+                "iconColor": "primary",
+                "content": "Passez en revue vos appels téléphoniques entrants et sortants. Trier par période de facturation, numéro de téléphone et / ou type d'appel. Vous pouvez écouter les messages vocaux. Téléchargez les journaux dans un fichier .csv et importez-les dans votre application de feuille de calcul préférée."
+            }
+        ]
+    },
+    "faqTitle": "FAQ sur le transfert d'appel"
+}

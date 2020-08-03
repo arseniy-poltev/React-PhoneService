@@ -24,11 +24,16 @@
     "next-i18next": "^4.5.0",
     "next-redux-wrapper": "^6.0.2",
     "next-seo": "^4.5.0",
+    "pure-react-carousel": "^1.27.1",
     "react": "^16.13.1",
     "react-card-flip": "^1.0.10",
     "react-dom": "^16.13.1",
+    "react-image-magnify": "^2.7.4",
+    "react-js-pagination": "^3.0.3",
     "react-redux": "^7.2.0",
+    "react-slick": "^0.26.1",
     "react-tiny-popover": "^5.1.0",
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "slick-carousel": "^1.8.1"
   }
 }

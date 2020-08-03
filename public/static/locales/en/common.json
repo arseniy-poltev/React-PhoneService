@@ -1,3 +1,6 @@
 {
-  "title": "next-translate library"
+  "title": "tridacom",
+  "404_page_content": "The page you are looking for was not found.",
+  "404_page_title": "404",
+  "404_page_subtitle": "Oops! You are lost."
 }

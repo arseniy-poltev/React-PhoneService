@@ -50,6 +50,7 @@ class Navbar extends React.Component {
                                         <li><Link href="/phone-solutions/call-forwarding"><a>{this.props.t('call_forwarding')}</a></Link></li>
                                         <li><Link href="/phone-solutions/virtual-number"><a>{this.props.t('toll_free_and_virtual_phone_numbers')}</a></Link></li>
                                         <li><Link href="/phone-solutions/fax-forward"><a>{this.props.t('fax_forwarding')}</a></Link></li>
+                                        <li><Link href="/products"><a>{this.props.t('products')}</a></Link></li>
                                     </ul>
                                 </li>
                                 <li><Link href="/services"><a>{this.props.t('it_services')}</a></Link></li>
@@ -60,8 +61,8 @@ class Navbar extends React.Component {
                                 <li><a href="#" className="dropdown-toggle">{this.props.t('local').toUpperCase()} <img src={`/img/flags/${this.props.t('local')}.png`} className="flag-img"/></a>
                                     <ul className="sub-menu">
                                         <li><a className="lang-item" onClick={() => i18n.changeLanguage('en')}><img src="/img/flags/en.png" /> English</a></li>
-                                        <li><a className="lang-item" onClick={() => i18n.changeLanguage('es')}><img src="/img/flags/ES.png" /> Español</a></li>
-                                        <li><a className="lang-item" onClick={() => i18n.changeLanguage('fr')}><img src="/img/flags/FR.png" /> Français</a></li>
+                                        <li><a className="lang-item" onClick={() => i18n.changeLanguage('es')}><img src="/img/flags/es.png" /> Español</a></li>
+                                        <li><a className="lang-item" onClick={() => i18n.changeLanguage('fr')}><img src="/img/flags/fr.png" /> Français</a></li>
                                     </ul>
                                 </li>
                             </ul>

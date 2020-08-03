@@ -1,3 +1,6 @@
 {
-  "title": "Librería next-translate"
+  "title": "tridacom",
+  "404_page_content": "No se encontró la página que busca..",
+  "404_page_title": "404",
+  "404_page_subtitle": "¡Uy! Estás perdido."
 }
